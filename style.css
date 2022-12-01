@@ -156,3 +156,35 @@ body {
 .header-button:hover {
     background-color: #894b17;
 }
+
+.cards-holder {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 349px;
+    height: 328px;
+    box-shadow: 10px 10px 40px 20px #0000001A;
+    margin-right: 31px;
+    background-color: #fff;
+    margin-top: -80px;
+
+}
+
+.card-image {
+    display: flex;
+    justify-content: center;
+    padding-top: 31px;
+}
+
+.card-title {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.card-description {
+    text-align: center;
+    justify-content: center;
+}
