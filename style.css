@@ -103,8 +103,8 @@ body {
     position: absolute;
     left: 0;
     
-    margin-top: 182px;
-    margin-left: 25px;
+    margin-top: 142px;
+    margin-left: -35px;
     margin-bottom: 12px;
 }
 
@@ -168,7 +168,7 @@ body {
     box-shadow: 10px 10px 40px 20px #0000001A;
     margin-right: 31px;
     background-color: #fff;
-    margin-top: -80px;
+    margin-top: -70px;
 
 }
 
