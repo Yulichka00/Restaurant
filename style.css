@@ -205,6 +205,7 @@ body {
 
 .history {
     margin-top: 166px;
+    padding-bottom: 200px;
 }
 
 .history-title {
@@ -263,31 +264,121 @@ body {
 }
 
 .images-1 {
-    position: absolute;
+    /*position: absolute;
     z-index: 1236px;
     top: 14px;
-    left: 125px;
+    left: 125px;*/
+
+    position: absolute;
+    z-index: 0;
+    top: -75px;
+    left: 345px;
 }
 
 .images-2 {
     position: absolute;
-    z-index: 1171px;
-    top: -15px;
-    left: 335px;
+    z-index: 1;
+    top: 14px;
+    left: 125px
 }
 
 .images-3 {
-    position: absolute;
+    /*position: absolute;
     z-index: 1369;
     top: 246px;
-    left: 400px;
+    left: 400px;*/
+
+    position: absolute;
+    z-index: 1;
+    top: 236px;
+    left: 370px;
 }
 
 .images-4 {
     position: absolute;
-    z-index: 1205;
+    /*z-index: 1205;
     top: 16px;
-    left: 400px;
+    left: 400px;*/
+    z-index: -1;
+    top: 256px;
+    left: 250px;
+
     height: 250px;
     width: 250px;
+}
+
+.black-block {
+    background-image: url(Images/black-bg.jpg);
+    padding: 80px 0;
+}
+
+.left-title {
+    color: #D67E34;
+    font-size: 52px;
+    font-family: "Tinos", serif;
+    font-weight: 400;
+
+    margin-bottom: 20px;
+}
+
+.left-text {
+    font-weight: 700;
+    font-size: 24px;
+    color: #fff;
+}
+
+.right-btn {
+    background-color: #FF7400;
+    text-transform: uppercase;
+    color: #fff;
+    text-decoration: none;
+    padding: 14px 19px;
+    font-weight: 700;
+    font-size: 14px;
+
+    transition: background-color 0.2s linear;
+}
+
+.right-btn:hover {
+    background-color: #894b17;
+}
+
+.block-holder {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.dishes-title {
+    font-family: "Tinos", serif;
+    font-size: 54px;
+    font-weight: 400;
+    text-align: center;
+    padding-top: 132px;
+    margin-bottom: 139px;
+}
+
+.dishes-title span {
+    color: #D67E34;
+}
+
+.burgers {
+    display: flex;
+    justify-content: center;
+}
+
+.burger-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 29px;
+}
+
+.burgers-image {
+    margin-right: 20px;
+}
+
+.burger-text {
+    font-family: "Tinos", serif;
+    font-size: 22px;
+    margin-left: 20px;
 }
