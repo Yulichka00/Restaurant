@@ -5,3 +5,4 @@ This is a codealong of the following:
 2) #2 Верстка сайта по шаблону для начинающих | Верстаем вместе | Сайт ресторана - доделываем главную - https://www.youtube.com/watch?v=TSDfEDrDXJ0
 3) #3 Верстка сайта по шаблону для начинающих | Верстаем вместе | Сайт ресторана - Блок Истории - https://www.youtube.com/watch?v=TC4AvkGCl6Q
 4) #4 Верстка сайта по шаблону для начинающих | Верстаем вместе | Сайт ресторана - Блок Еды - https://www.youtube.com/watch?v=yz4-plILX5o&t=609s
+5) #5 Верстка сайта по шаблону для начинающих | Верстаем вместе | Сайт ресторана - Меню - https://www.youtube.com/watch?v=j05OquGID3Q
